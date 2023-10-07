@@ -44,4 +44,4 @@ How to run the Company Visitors Management System (Code Camp BD - Visitor Manage
 
 
  - Deshbord
-    <img src="screen/01.png">
+    <img src="screen/01.jpg">
